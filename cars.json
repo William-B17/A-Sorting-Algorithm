@@ -1,0 +1,26 @@
+{
+    "honda": {
+        "color": "red",
+        "miles": 400,
+        "fuel": "benzin",
+        "price": 80000
+    },
+    "toyota": {
+        "color": "white",
+        "miles": 200,
+        "fuel": "benzin",
+        "price": 55000
+    },
+    "tesla": {
+        "color": "red",
+        "miles": 0,
+        "fuel": "e",
+        "price": 155000
+    },
+    "ford": {
+        "color": "black",
+        "miles": 150,
+        "fuel": "benzin",
+        "price": 95000
+    }
+}
